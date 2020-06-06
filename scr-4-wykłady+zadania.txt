@@ -1,0 +1,23 @@
+### Asembler - programowanie ###
+
+W ramach wykładu 4 VI należy zapoznać się z prezentacją o asemblerze i z kodem poszczególnych aplikacji 01.asm - 05.asm .
+
+Zadania na laboratoria 4 VI/8VI.
+
+Zadanie nr 1
+Napisz program pobierający tekst od użytkownika (w konsoli). Po pobraniu tekstu, zwracane jest jego podsumowanie:
+- liczba znaków (ogólnie),
+- liczba liter,
+- liczba cyfr,
+- liczba słów,
+- liczba zdań (przez zdania rozumiemy fragmenty tekstu oddzielane kropką).
+Program pozwala na wpisywanie i podsumowywanie wielu tekstów. Program kończymy, gdy użytkownik wpisze tekst o długości 0 znaków.
+
+Zadanie nr 2
+Napisz program pobierający trzy teksty. Program odszukuje drugi tekst w pierwszym i zamienia wystąpienia drugiego tekstu na tekst trzeci.
+
+Uruchom program w debuggerze. Ręcznie zmodyfikuj progrma tak, żeby to tekst trzeci był podmieniany na drugi. 
+Zmodyfikowany wycinek kodu wydobyty z debuggera prześlij w ramach dowodu wykonania zadania (może być screenshot).
+
+
+Uwaga: zadania należy przesłać do 10 VI (włącznie).
