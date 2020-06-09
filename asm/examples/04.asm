@@ -82,7 +82,7 @@ section .data ;; dane programu
 tytul db "App 04", 0
 msg1 db "Wpisz T/t aby zakonczyc program.", 13, 10, ">> ", 0
 size1 equ $ - msg1 - 1
-tak1 db "T"
+tak1 db 13
 tak2 db "t"
 
 section .bss
